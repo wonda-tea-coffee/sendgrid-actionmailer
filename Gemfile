@@ -9,3 +9,4 @@ if RUBY_VERSION < '2'
 end
 
 gem 'base64'
+gem 'ostruct'
